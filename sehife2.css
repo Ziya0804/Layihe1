@@ -1,0 +1,81 @@
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.header{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.header_orta{
+    width: 55%;
+    height: 55%;
+    text-align: center;
+}
+.header_orta h1{
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 7%;
+}
+.header_orta p{
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: -40px;
+}
+.header_orta button{
+    width: 24%;
+    height: 19%;
+    border: 1px solid #1D809F ;
+    background-color: #1D809F;
+    color: white;
+    border-radius: 6px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.header_orta button :hover {
+    background-color: red;
+    color: aqua;
+}
+
+.main1{
+    width: 99,9%;   
+}
+.main1_orta .main_1_p_1{
+    font-size:32px;
+    font-weight: bold;
+    margin-top: 100px;
+    
+}
+.main1_orta{
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    height: 250px;
+}
+.main_1_p_2{
+    font-size: 20px;
+    margin-top: -15px;
+    font-weight: 100;
+    color: #828d8e;
+}
+.main1_orta button{
+    width: 18%;
+    height: 70px;
+    border-radius: 7px;
+    border: 1px solid #212529;
+    background-color: #212529;
+    color: white;
+    font-size: 15px;
+    margin-top: 3%;
+}
+.main2{
+    width: 99,9%;
+    height: 700px;
+    background-color: #1D809F;
+    text-align: center;
+}
